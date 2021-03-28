@@ -1,0 +1,40 @@
+SysInfo:
+Linux DESKTOP-1QN8F0B 4.4.0-19041-Microsoft #488-Microsoft Mon Sep 01 13:43:00 PST 2020 x86_64 x86_64 x86_64 GNU/Linux
+
+Username:
+root
+
+Hostname:
+DESKTOP-1QN8F0B
+
+Interface config:
+Iface      MTU    RX-OK RX-ERR RX-DRP RX-OVR    TX-OK TX-ERR TX-DRP TX-OVR Flg
+eth1      1500        0      0      0 0             0      0      0      0 BMRU
+lo        1500        0      0      0 0             0      0      0      0 LRU
+wifi0     1500        0      0      0 0             0      0      0      0 BMRU
+
+Network interfaces:
+12: eth0: <> mtu 1500 group default qlen 1
+    link/ether 28:d2:44:47:98:cc
+7: eth1: <BROADCAST,MULTICAST,UP> mtu 1500 group default qlen 1
+    link/ether 0a:00:27:00:00:07
+1: lo: <LOOPBACK,UP> mtu 1500 group default qlen 1
+    link/loopback 00:00:00:00:00:00
+5: wifi0: <BROADCAST,MULTICAST,UP> mtu 1500 group default qlen 1
+    link/ieee802.11 40:f0:2f:5c:bd:6c
+15: wifi1: <> mtu 1500 group default qlen 1
+    link/ieee802.11 42:f0:2f:5c:bd:6c
+8: wifi2: <> mtu 1500 group default qlen 1
+    link/ieee802.11 42:f0:2f:5c:b5:6c
+
+Firewall version:
+ufw 0.36
+Copyright 2008-2015 Canonical Ltd.
+
+Servername:
+nameserver 192.168.31.1
+nameserver fec0:0:0:ffff::1
+nameserver fec0:0:0:ffff::2
+
+The number of seconds the script has been running for:
+7
